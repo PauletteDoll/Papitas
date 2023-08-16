@@ -1,2 +1,4 @@
 sal 
 aceite 
+panqueques
+huevos
