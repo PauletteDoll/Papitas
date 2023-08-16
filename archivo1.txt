@@ -1,4 +1,12 @@
 sal 
 aceite 
+help
+
+
+
+
+aaaaaaaaaa
+=======
 agua
 fideos fideos fideos
+main
